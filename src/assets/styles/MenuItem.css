@@ -1,0 +1,17 @@
+.menu-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: 333ms ease;
+  margin-bottom: 4px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu-item:hover {
+  background-color: #ececec;
+}
+
+.menu-item img {
+  width: 20px;
+}

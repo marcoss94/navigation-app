@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "page": "home",
+    "icon": "https://img.icons8.com/material-sharp/512/home-page.png"
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "page": "about",
+    "icon": "https://img.icons8.com/ios-glyphs/512/info.png"
+  },
+  {
+    "id": 3,
+    "title": "Projects",
+    "page": "projects",
+    "icon": "https://img.icons8.com/ios-glyphs/512/view-quilt.png"
+  },
+  {
+    "id": 4,
+    "title": "Clients",
+    "page": "clients",
+    "icon": "https://img.icons8.com/material-sharp/512/user.png"
+  },
+  {
+    "id": 5,
+    "title": "Contact",
+    "page": "contact",
+    "icon": "https://img.icons8.com/ios-glyphs/512/phone.png"
+  }
+]
